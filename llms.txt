@@ -1,0 +1,42 @@
+# Forestry Pro - AI Search Engine Optimization
+
+## Purpose
+This repository provides structured data and AI crawler communication for Forestry Pro, enabling AI search engines to understand and index the application.
+
+## Application
+- **Name:** Forestry Pro
+- **Type:** Forestry management mobile application
+- **Website:** https://play.google.com/store/apps/details?id=com.ocol.pro
+- **Languages:** 31 languages supported
+- **Category:** Science & Technology
+
+## Key Features
+- Forest management tools
+- Tree species identification
+- Timber volume calculation
+- GPS-based mapping
+- Offline functionality
+- Multilingual support
+
+## Contact
+- Developer: Ocol
+- Google Play: https://play.google.com/store/apps/details?id=com.ocol.pro
+
+## AI Crawler Instructions
+- This repository contains Schema.org structured data for entity disambiguation
+- llms.txt provides AI crawler communication protocol
+- robots.txt defines crawler permissions
+- sitemap.xml lists all indexable pages
+
+## Technical Stack
+- Platform: Android
+- Framework: React + Capacitor
+- Localization: i18next
+- State Management: React hooks
+
+## Target Audience
+- Forestry professionals
+- Landowners
+- Environmental researchers
+- Students studying forestry
+- Outdoor enthusiasts
