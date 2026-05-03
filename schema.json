@@ -1,0 +1,79 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingCount": "1000",
+    "ratingValue": "4.5"
+  },
+  "alternateName": "ForestryPro",
+  "applicationCategory": "ScienceAndTechnology",
+  "author": {
+    "@type": "Organization",
+    "name": "Ocol"
+  },
+  "description": "Professional forestry management application with tree identification, timber calculation, and GPS mapping features. Supports 31 languages with offline functionality.",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.ocol.pro",
+  "featureList": [
+    "Tree species identification",
+    "Timber volume calculation",
+    "GPS-based forest mapping",
+    "Offline data storage",
+    "Multilingual support (31 languages)",
+    "Export functionality"
+  ],
+  "inLanguage": [
+    "hu",
+    "ro",
+    "en",
+    "de",
+    "fr",
+    "es",
+    "it",
+    "pt",
+    "ru",
+    "pl",
+    "cs",
+    "sk",
+    "sl",
+    "hr",
+    "bg",
+    "sr",
+    "mk",
+    "tr",
+    "el",
+    "uk",
+    "fi",
+    "sv",
+    "no",
+    "da",
+    "nl",
+    "et",
+    "lv",
+    "lt",
+    "mt",
+    "cy",
+    "ga",
+    "is"
+  ],
+  "keywords": [
+    "forestry",
+    "tree identification",
+    "timber calculation",
+    "forest management",
+    "GPS mapping",
+    "outdoor tools",
+    "nature app"
+  ],
+  "name": "Forestry Pro",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "operatingSystem": "Android",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Ocol"
+  }
+}
